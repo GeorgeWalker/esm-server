@@ -9,3 +9,8 @@ patch:
   'npm:uglify-js:20151024':
     - swig > uglify-js:
         patched: '2017-08-02T16:05:56.462Z'
+  'npm:debug:20170905':
+    - mocha > debug:
+        patched: '2017-09-29T08:51:10.259Z'
+    - mongoose > mquery > debug:
+        patched: '2017-09-29T08:51:10.259Z'

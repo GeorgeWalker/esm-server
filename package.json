@@ -40,7 +40,7 @@
     "glob": "^5.0.13",
     "grunt": "1.0.0",
     "grunt-cli": "~1.0.0",
-    "helmet": "~3.6.1",
+    "helmet": "~3.8.2",
     "jasmine-core": "^2.3.4",
     "lodash": "^4.0.0",
     "method-override": "^2.3.3",
@@ -50,7 +50,7 @@
     "mongoose": "4.10.2",
     "morgan": "^1.6.1",
     "multer": "1.0.0",
-    "node-pre-gyp": "0.6.15",
+    "node-pre-gyp": "0.6.34",
     "nodemailer": "^2.3.2",
     "passport": "~0.2.2",
     "passport-github": "~0.1.5",
@@ -66,7 +66,7 @@
     "tree-model": "^1.0.6",
     "uid-safe": "2.0.0",
     "validator": "^3.41.2",
-    "snyk": "^1.38.0"
+    "snyk": "^1.41.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.4",
